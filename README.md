@@ -1,6 +1,4 @@
-# Break-A-Block
-
-A 2D Block Breaker game by Andrew Te
+# Break-A-Block, Defeat the Dark Side!!
 
 ## Scenes in the game
 
@@ -16,6 +14,5 @@ A 2D Block Breaker game by Andrew Te
 ![Alt text](/Scene View/Level 03.png?raw=true "Level 03")
 
 ![Alt text](/Scene View/Lose.png?raw=true "Lose Screen")
-
 
 ![Alt text](/Scene View/Win.png?raw=true "Win Screen")
